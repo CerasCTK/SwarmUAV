@@ -179,7 +179,6 @@ build/*.
 cache/*.
 assets/videos/*
 assets/streams/*
-dependencies/
 src/logs/recordings/*
 src/logs/images/*
 src/backup/*

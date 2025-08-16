@@ -1,0 +1,9 @@
+[submodule "dependencies/PX4-Autopilot"]
+	path = dependencies/PX4-Autopilot
+	url = https://github.com/PX4/PX4-Autopilot
+[submodule "dependencies/MAVSDK-Python"]
+	path = dependencies/MAVSDK-Python
+	url = https://github.com/mavlink/MAVSDK-Python.git
+[submodule "dependencies/mavlink-router"]
+	path = dependencies/mavlink-router
+	url = https://github.com/mavlink-router/mavlink-router.git

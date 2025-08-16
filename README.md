@@ -3,7 +3,7 @@
 ## Clone project
 
 ```bash
-git clone --recurse-submodules --shallow-submodules https://github.com/CerasCTK/SwarmUAV.git
+git clone --recurse-submodules https://github.com/CerasCTK/SwarmUAV.git
 ```
 
 ## Installation

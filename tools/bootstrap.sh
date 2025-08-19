@@ -16,9 +16,9 @@ FLAG_FILE="$FLAG_DIR/prepare_done"
 ########## PRE-CHECK ###########
 ################################
 if [ -f $FLAG_FILE ]; then
-	echo "[INFO] This script only needs to be run once! Please run the `setup-environment.sh` script."
+	echo "[INFO] This script only needs to be run once! Please run the `environment.sh` script."
 	exit 0
-do
+fi
 
 ################################
 ### INSTALL & BUILD SCRIPTS ####

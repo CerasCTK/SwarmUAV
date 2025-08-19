@@ -1,7 +1,9 @@
 #!/bin/bash
 
 # Install required apt packages
-sudo apt install python
+sudo apt install -y python \
+	npm \
+
 
 # Install node packages
 echo "[INFO] Installing node_modules..."

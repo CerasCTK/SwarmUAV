@@ -9,5 +9,9 @@ git clone --recurse-submodules https://github.com/CerasCTK/SwarmUAV.git
 ## Installation
 
 ```bash
-./tools/setup.sh
+./tools/bootstrap.sh
+```
+
+```bash
+./tools/environment.sh
 ```

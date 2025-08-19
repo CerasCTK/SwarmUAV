@@ -23,6 +23,7 @@ do
 ################################
 ### INSTALL & BUILD SCRIPTS ####
 ################################
+"$SCRIPTS_DIR/install-general-packages.sh"
 "$SCRIPTS_DIR/install-miniconda.sh"
 "$SCRIPTS_DIR/install-ros-noetic.sh"
 "$SCRIPTS_DIR/build-mavlink-router.sh"
